@@ -1,0 +1,40 @@
+html{
+	color:#ffffff;
+	background:/*-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/
+	/*url("https://wallpapers.com/images/hd/astonishing-japan-anime-scenery-tfqfdnyu5o5mda68.jpg");*/
+	url("https://free4kwallpapers.com/uploads/originals/2022/03/28/anime-landscape-for-desktop-scenery-clouds-stars-buildings-wallpaper.jpg");
+	background-color: rgba(0, 0, 0, 0.5);
+	background-repeat: no-repeat;
+	background-blend-mode: multiply;
+	background-size: cover;
+}
+body{
+	margin: 10px;
+	padding: 20px;
+	font-size: 20px;
+}
+main{
+	background-color: rgba(0, 0, 0, 0.2);
+	border: 1px solid whitesmoke;
+	width: 20%;
+	float: left;
+}
+aside{
+	background-color: rgba(0, 0, 0, 0.2);
+	border: 1px solid whitesmoke;
+	text-align: left;
+	width: 30%;
+	margin-left: 50%;
+}
+a{
+  color:#ffffff;
+  font-variant: small-caps;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-align: left;
+  float: left;
+}
+img{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
