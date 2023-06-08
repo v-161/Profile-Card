@@ -15,14 +15,14 @@ body{
 	font-size: 20px;
 }
 main{
-	max-width: 100%;
+	
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
 	width: 45%;
 	float: left;
 }
 aside{
-	max-width: 100%;
+	
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
 	text-align: left;
@@ -30,7 +30,7 @@ aside{
 	margin-left: 50%;
 }
 a{
-	max-width: 100%;
+
   color:#ffffff;
   font-variant: small-caps;
   background-color: rgba(255, 255, 255, 0.3);
@@ -38,7 +38,7 @@ a{
   float: left;
 }
 img{
-	max-width: 100%;
+
 	border-radius: 50%;
 	width: 150px;
 	height: 150px;
