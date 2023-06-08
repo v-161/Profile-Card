@@ -9,7 +9,7 @@ html{
 	background-size: cover;
 }
 body{
-	min-width: 250%;
+	max-width: 250%;
 	margin: 10px;
 	padding: 20px;
 	font-size: 20px;
