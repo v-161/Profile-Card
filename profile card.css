@@ -19,7 +19,7 @@ main{
 
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
-	width: 35%;
+	width: 55%;
 	float: left;
 }
 aside{
@@ -27,7 +27,7 @@ aside{
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
 	text-align: left;
-	width: 55%;
+	width: 45%;
 	margin-left: 45%;
 }
 a{
