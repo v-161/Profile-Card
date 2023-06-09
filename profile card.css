@@ -1,26 +1,32 @@
 html{
+        
 	color:#ffffff;
 	/*background:/*-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),*/
-	background:url("https://free4kwallpapers.com/uploads/originals/2022/03/28/anime-landscape-for-desktop-scenery-clouds-stars-buildings-wallpaper.jpg");
+	background:
+	url("https://free4kwallpapers.com/uploads/originals/2022/03/28/anime-landscape-for-desktop-scenery-clouds-stars-buildings-wallpaper.jpg");
 	background-color: rgba(0, 0, 0, 0.5);
 	background-repeat: no-repeat;
 	background-blend-mode: multiply;
 	background-size: cover;
 }
 body{
-	margin: 10px;
+	display: block;
+	max-width: 200%;
+	margin: 20px;
 	padding: 20px;
 	font-size: 20px;
-	max-width:100%;
 }
 main{
+	display: block;
+	max-width: 200%;
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
 	width: 35%;
 	float: left;
-
 }
 aside{
+	display: block;
+	max-width: 200%;
 	background-color: rgba(0, 0, 0, 0.2);
 	border: 1px solid whitesmoke;
 	text-align: left;
@@ -28,17 +34,30 @@ aside{
 	margin-left: 45%;
 
 }
-a{
-	color:#ffffff;
-	font-variant: small-caps;
-	background-color: rgba(255, 255, 255, 0.3);
-	text-align: left;
-	float: left;
 
+aside p{
+	text-align: left;
+	padding: 5px;
 }
-img{
+aside a{
+	
+  color:#ffffff;
+  font-variant: small-caps;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-align: left;
+  float: left;
+  padding: 0px;
+}
+main img{
+	max-width: 100%;
 	border-radius: 50%;
 	width: 150px;
 	height: 150px;
-
+}
+aside img{
+  max-width: 100%;
+	border-radius: 50%;
+	height: 75px;
+	width: 75px;	
+	display: block;
 }
